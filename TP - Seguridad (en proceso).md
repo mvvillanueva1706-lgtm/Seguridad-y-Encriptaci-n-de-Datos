@@ -14,3 +14,13 @@
 - **El Estándar Actual (El más avanzado):** AES (Advanced Encryption Standard) Es el algoritmo de cifrado simétrico más seguro y utilizado en el mundo actual (usado por gobiernos, bancos y bases de datos como MySQL, PostgreSQL u Oracle). Utiliza matrices matemáticas complejas y claves de longitudes específicas. Romper una clave AES robusta por fuerza bruta tomaría miles de millones de años con la tecnología actual.
 
 ## Parte 3: Actividades Prácticas (¡A Encriptar!)
+
+Utilizando el alfabeto estándar de 26 letras (A-Z, sin contar la Ñ para estandarizar), resuelve los siguientes desafíos:
+- Aplica un desplazamiento de +3 a la siguiente palabra que simula un dato sensible de una base de datos:
+- Palabra original: B _ A _ N _ C _ O
+- Palabra cifrada:  _ _ _ _ _ _ _ _ _ _
+
+Un hacker interceptó tu base de datos y robó el siguiente apellido cifrado con un desplazamiento de +3. Descubre cuál es el apellido real restando 3 posiciones (-3) a cada letra:
+
+• Apellido cifrado: K _ O _ U _ O
+• Apellido real:    _ _ _ _ _ _ _ _
