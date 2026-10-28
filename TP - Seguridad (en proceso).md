@@ -24,4 +24,4 @@ Utilizando el alfabeto estándar de 26 letras (A-Z, sin contar la Ñ para estand
 2. Un hacker interceptó tu base de datos y robó el siguiente apellido cifrado con un desplazamiento de +3. Descubre cuál es el apellido real restando 3 posiciones (-3) a cada letra:
 
 - Apellido cifrado: KOUO
-- Apellido real:    _ _ _ _ _ _ _ _ i
+- Apellido real: 
