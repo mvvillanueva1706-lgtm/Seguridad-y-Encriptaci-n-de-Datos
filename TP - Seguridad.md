@@ -19,6 +19,11 @@ Explica con tus palabras cuál es el objetivo principal de la encriptación en e
 
 ## Parte 3: Actividades Prácticas (¡A Encriptar!)
 
+Utilizando el alfabeto estándar de 26 letras (A-Z, sin contar la Ñ para estandarizar), resuelve los siguientes desafíos: <br>
+• Aplica un desplazamiento de +3 a la siguiente palabra que simula un dato sensible de una base de datos:
+
 1. Palabra original: BANCO <br> Palabra cifrada: EDQFR
+
+   
 
 2. Apellido cifrado: KOUO <br> Apellido real: HLRL
